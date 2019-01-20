@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/benkeen/d3pie.git"
+    "url": "https://github.com/triplegdev/d3pie/.git"
   },
   "keywords": [
     "d3",
@@ -17,7 +17,7 @@
     "charts",
     "graphs"
   ],
-  "author": "Ben Keen",
+  "author": "Ben Keen & Anthony Garcia",
   "email": "ben.keen@gmail.com",
   "license": "MIT",
   "bugs": {
